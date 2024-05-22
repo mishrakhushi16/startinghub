@@ -1,5 +1,4 @@
-let s1='khushi';
-let s2='';
-for (i in s1){
-   
-}
+var num = Math.random();
+
+// Log the generated random number to the console
+console.log(num);
